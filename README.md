@@ -108,7 +108,7 @@ on the Year from 1995 to 2019. Your submission should be a Tableau Workbook and
 Screenshot. You can find the images uploaded to Canvas to support recreating the
 icons and the banner.
 
-![](media/8c8489f0a2675e98feba06612722a770.png)
+![](./images/screenshot_1.png)
 
 ## Submitting the Assignment
 
